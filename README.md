@@ -7,7 +7,7 @@
 	socketio
 	json
 	pyyaml
-	Плагины:
+Плагины:
 
 Временный белый список - https://www.spigotmc.org/resources/temporarywhitelist.99914 /
 
