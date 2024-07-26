@@ -1,6 +1,7 @@
 # SoketEvenPy
 
-**Для работы необходимы ** Библиотеки:
+**Для работы необходимы** 
+**Библиотеки:** 
 
 	mcrcon
 	socketio
@@ -10,14 +11,14 @@
 
 Временный белый список - https://www.spigotmc.org/resources/temporarywhitelist.99914 /
 
-Команды для установки:
+ **Команды для установки:**
 
 	mcrcon - pip install mcrcon
 	socketio - pip install "python-socketio[client]" 
 	json - встроиная 
 	pyyaml - pip install pyyaml
  
-Файл конфигурации config.yml
+**Файл конфигурации config.yml**
 
 В нем находятся все настройки для работы: 
 	ip - ip адрес сервера
@@ -25,6 +26,6 @@
   	password - пароль для подключения к консоли сервера 
    	promo - промокод для скидки
 
-Файл конфигурации токенов token.yml
+**Файл конфигурации токенов token.yml**
 
 В нем находятся все токены с которых нужно получать информацию
