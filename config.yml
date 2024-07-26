@@ -1,3 +1,7 @@
 ip: 
 port: 
-password: 
+password:
+promo:
+twich:
+price:
+price_promo:
