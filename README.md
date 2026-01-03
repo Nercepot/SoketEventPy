@@ -9,7 +9,7 @@
 	pyyaml
 Плагины:
 
-Временный белый список - https://www.spigotmc.org/resources/temporarywhitelist.99914 /
+Временный белый список - https://modrinth.com/plugin/whitelistbytime
 
  **Команды для установки:**
 
